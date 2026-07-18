@@ -30,3 +30,13 @@ button{
 button:active{
     transform:scale(0.95);
 }
+
+.container{
+    width:95%;
+}
+
+.photo{
+    width:80%;
+    max-width:350px;
+    border-radius:20px;
+}
