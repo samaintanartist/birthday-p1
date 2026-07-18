@@ -8,11 +8,23 @@ const messages = [
     ":D",
     "Well u gotta be full of energy clicking that much",
     "one more think one more thing",
-    "hmm.. i actually forgot what was i planning to say",
-    "maybe something that starts with H.. ends with Y..",
+    "thinK i said 🥀 oh my nvm",
+    "hmm.. i actually forgot what was i about to say",
+    "maybe something that starts with H.. ends with Y...",
     "I'm not sure",
-    "hold on i may have remembered it, Sure u wanna hear it?",
-    "if so, click this pink button :D"
+    "hold on",
+    "i think i remember now",
+    "wanna know what i wanted to say?",
+    "hmm..",
+    "if so click this pink button -0-!",
+    "Why are you clicking again on text 🥀",
+    "I told u to click Ready!!",
+    "CLICK IT NOW",
+    "WHY DIDN'T YOU JUST CLICK IT",
+    "bruh ─⁠.⁠─",
+    "alright im leaving keep clicking if u want",
+    "    ",
+    "Bleh :P
 ];
 
 let index = 0;
