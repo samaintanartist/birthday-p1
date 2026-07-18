@@ -1,0 +1,26 @@
+body{
+    background:#171717;
+    color: white;
+    text-align:center;
+    font-family:Arial;
+    margin-top:100px;
+}
+
+button{
+    background-color:#ff4f9b;
+    color:white;
+
+    border:none;
+    border-radius:15px;
+
+    padding:15px 35px;
+
+    font-size:20px;
+
+    cursor:pointer;
+
+    transition:0.3s;
+}
+button:active{
+    transform:scale(0.95);
+}
