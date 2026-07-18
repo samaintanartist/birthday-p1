@@ -7,8 +7,7 @@ const messages = [
     "Right?",
     ":D",
     "Well u gotta be full of energy clicking that much",
-    "one more think one more thing",
-    "thinK i said 🥀 oh my nvm",
+    "one more thing one more thing",
     "hmm.. i actually forgot what was i about to say",
     "maybe something that starts with H.. ends with Y...",
     "I'm not sure",
@@ -22,8 +21,7 @@ const messages = [
     "CLICK IT NOW",
     "WHY DIDN'T YOU JUST CLICK IT",
     "bruh ─⁠.⁠─",
-    "alright im leaving keep clicking if u want",
-    "    "
+    "alright im leaving keep clicking if u want"
 ];
 
 let index = 0;
