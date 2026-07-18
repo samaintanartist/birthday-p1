@@ -1,25 +1,17 @@
 const messages = [
-
-"Happy Birthday!",
-
-"I wanted to make you something.",
-
-"I hope today makes you smile.",
-
-"You're awesome ❤️"
-
+    "Happy Birthday!",
+    "I wanted to make you something.",
+    "I hope today makes you smile.",
+    "You're awesome ❤️"
 ];
 
 let index = 0;
 
-document.getElementById("text").addEventListener("click",function(){
+document.getElementById("text").addEventListener("click", function () {
 
-    if(index < messages.length){
-
+    if (index < messages.length) {
         document.getElementById("text").innerText = messages[index];
-
         index++;
-
     }
 
 });
