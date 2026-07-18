@@ -23,8 +23,7 @@ const messages = [
     "WHY DIDN'T YOU JUST CLICK IT",
     "bruh ─⁠.⁠─",
     "alright im leaving keep clicking if u want",
-    "    ",
-    "Bleh :P
+    "    "
 ];
 
 let index = 0;
